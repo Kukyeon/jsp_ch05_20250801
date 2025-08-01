@@ -16,17 +16,7 @@
 			return true;
 		}
 	
-		
-
-		
-	
-	
 	</script>
-
-
-
-
-
 </head>
 <body>
 	<form action="scoreOk.jsp" name="scoreform" onsubmit="return scoreFun()">
