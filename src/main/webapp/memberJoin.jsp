@@ -22,6 +22,7 @@
 		이름 :<br> <input type="text" name="mname"> <br>
 		이메일 :<br>  <input type="text" name="mmail"> <br>
 		주소 :<br> <input type="text" name="maddr"> <br>
+		나이 :<br> <input type="text" name="mage"> <br>
 		<input type="button" value="회원가입" onclick="joinCheck()">
 	</form>
 </body>
