@@ -76,7 +76,7 @@ function joinCheck(){
 				return;	
 	}
 	if(!regex3.test(cage)){ //이메일에 영어,특수문자 확인하는경우.
-					alert("나이를 입력해주세요.");
+					alert("나이는 숫자만 입력해주세요.");
 					document.joinForm.mage.focus(); // 해당 입력위치로 커서이동
 					return;
 	}
